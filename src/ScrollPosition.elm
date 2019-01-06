@@ -1,4 +1,4 @@
-port module ScrollPosition exposing (view)
+module ScrollPosition exposing (view)
 
 import Browser.Dom exposing (getViewport)
 import Debug
